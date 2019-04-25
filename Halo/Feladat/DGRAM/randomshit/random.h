@@ -1,0 +1,2 @@
+
+void sq(int a)
